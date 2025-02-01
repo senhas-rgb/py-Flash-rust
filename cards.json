@@ -1,0 +1,30 @@
+{
+    "subjects": [
+        {
+            "name": "Subject Name",
+            "cards": [
+                {
+                    "question": "Question text01",
+                    "answer": "Answer text01"
+                },
+                {
+                    "question": "Question text2",
+                    "answer": "Answer text2"
+                }
+            ]
+        },
+        {
+            "name": "Another Subject Name",
+            "cards": [
+                {
+                    "question": "Question text11",
+                    "answer": "Answer text11"
+                },
+                {
+                    "question": "Question text12",
+                    "answer": "Answer text12"
+                }
+            ]
+        }
+    ]
+}
